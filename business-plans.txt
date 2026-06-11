@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Plans | MLG - Mzansi Lead Generation</title>
+    <meta name="description" content="Professional business plans for startups, SMMEs, and funding applications. Tailored to your industry.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo"><img src="logo.png" alt="MLG Logo"></div>
+            <nav><ul><li><a href="index.html">Home</a></li><li><a href="web-design.html">Website Design</a></li><li><a href="marketing.html">Marketing & Lead Gen</a></li><li><a href="business-plans.html" class="active">Business Plans</a></li><li><a href="contact.html">Contact</a></li></ul><div class="mobile-menu"><i class="fas fa-bars"></i></div></nav>
+        </div>
+    </header>
+
+    <section class="page-header">
+        <div class="container">
+            <h1>Business Plans</h1>
+            <p>Professional plans for funding, partnerships, and growth</p>
+        </div>
+    </section>
+
+    <section class="business-content">
+        <div class="container">
+            <div class="two-col">
+                <div>
+                    <h2>What We Deliver</h2>
+                    <ul>
+                        <li>Executive Summary</li>
+                        <li>Company Overview</li>
+                        <li>Market Analysis</li>
+                        <li>Marketing & Sales Strategy</li>
+                        <li>Financial Projections (3-5 years)</li>
+                        <li>Funding Request (if applicable)</li>
+                        <li>Implementation Timeline</li>
+                    </ul>
+                </div>
+                <div>
+                    <h2>Who We Serve</h2>
+                    <ul>
+                        <li>Startups seeking funding</li>
+                        <li>Established SMMEs scaling up</li>
+                        <li>Businesses applying for loans or grants</li>
+                        <li>Partnership or investor proposals</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="pricing-model">
+        <div class="container">
+            <h2>Business Plan Packages</h2>
+            <div class="pricing-grid">
+                <div class="pricing-option"><h3>Basic Plan</h3><p class="price">R3,500</p><p>10-15 pages. For internal use or small funding applications.</p></div>
+                <div class="pricing-option"><h3>Professional Plan</h3><p class="price">R6,500</p><p>20-30 pages. Bank and investor ready. Financial projections included.</p></div>
+                <div class="pricing-option"><h3>Comprehensive</h3><p class="price">R12,000+</p><p>Custom length. Multiple scenarios. Presentation deck included.</p></div>
+            </div>
+            <p class="note">Includes 2 rounds of revisions. Delivery within 7-14 days.</p>
+        </div>
+    </section>
+
+    <section class="cta-section">
+        <div class="container"><h2>Ready to Plan Your Success?</h2><a href="contact.html" class="btn">Request a Quote</a></div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col"><img src="logo.png" alt="MLG Logo" class="footer-logo"><p>Digital growth for Gauteng businesses.</p></div>
+                <div class="footer-col"><h4>Quick Links</h4><ul><li><a href="index.html">Home</a></li><li><a href="web-design.html">Website Design</a></li><li><a href="marketing.html">Marketing</a></li><li><a href="business-plans.html">Business Plans</a></li><li><a href="contact.html">Contact</a></li></ul></div>
+                <div class="footer-col"><h4>Contact</h4><p><i class="fas fa-phone"></i> <a href="tel:0696695448">069 669 5448</a></p><p><i class="fab fa-facebook"></i> <a href="https://www.facebook.com/profile.php?id=61572130719736" target="_blank">Facebook</a></p></div>
+            </div>
+            <div class="footer-bottom"><p>&copy; 2025 MLG. All rights reserved.</p><p><a href="#" id="popia-link-footer">POPIA Compliance</a></p></div>
+        </div>
+    </footer>
+
+    <a href="https://wa.me/27696695448?text=Hi%20MLG%2C%20I'm%20interested%20in%20a%20business%20plan" class="whatsapp-float" target="_blank"><i class="fab fa-whatsapp"></i><span>Chat</span></a>
+
+    <div id="popia-modal" class="modal"><div class="modal-content"><span class="close-modal">&times;</span><h2>POPIA Compliance</h2><p>MLG protects your personal information. We collect only what you provide via forms and use it only to respond to you. Email info@mzansileadgen.co.za for data requests.</p><button id="close-popia" class="btn">I Understand</button></div></div>
+
+    <script src="script.js"></script>
+</body>
+</html>

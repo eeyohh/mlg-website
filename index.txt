@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>MLG | Mzansi Lead Generation - Digital Growth for Gauteng Businesses</title>
+    <meta name="description" content="MLG helps Gauteng businesses grow with website design that converts, lead generation, marketing, and business plans. Free audit. Free first lead.">
+    <meta name="keywords" content="lead generation South Africa, website design Gauteng, business plans SA, marketing agency Johannesburg, MLG">
+    <meta name="author" content="MLG">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://mzansileadgen.co.za/">
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <!-- Swiper.js for Slider -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+</head>
+<body>
+
+    <!-- Header / Navigation -->
+    <header>
+        <div class="container">
+            <div class="logo">
+                <img src="logo.png" alt="MLG Logo - Mzansi Lead Generation">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="web-design.html">Website Design</a></li>
+                    <li><a href="marketing.html">Marketing & Lead Gen</a></li>
+                    <li><a href="business-plans.html">Business Plans</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="mobile-menu">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Slider Section -->
+    <section class="hero-slider">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="slide-bg">
+                        <div class="slide-content">
+                            <h1>Websites That Sell</h1>
+                            <p>We design high-conversion websites with contact forms, WhatsApp API, and mobile-first layouts.</p>
+                            <a href="web-design.html" class="btn">View Packages</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="slide-bg">
+                        <div class="slide-content">
+                            <h1>Turn Clicks Into Customers</h1>
+                            <p>Our lead generation system finds qualified buyers in Gauteng and delivers them to your business.</p>
+                            <a href="marketing.html" class="btn">Get Leads</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="slide-bg">
+                        <div class="slide-content">
+                            <h1>Strategic Business Plans</h1>
+                            <p>From startups to established SMMEs. We help you plan, fund, and grow your business.</p>
+                            <a href="business-plans.html" class="btn">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>
+    </section>
+
+    <!-- Services Overview -->
+    <section class="services-overview">
+        <div class="container">
+            <h2>What We Do</h2>
+            <p class="section-subtitle">Three core services to grow your business</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <i class="fas fa-code"></i>
+                    <h3>Website Design</h3>
+                    <p>Websites built to convert. Contact forms, WhatsApp API, and mobile-first designs that drive sales.</p>
+                    <a href="web-design.html">Learn more →</a>
+                </div>
+                <div class="service-card">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>Marketing & Lead Gen</h3>
+                    <p>We find qualified customers on Facebook Marketplace, Groups, Instagram, and more. First lead free.</p>
+                    <a href="marketing.html">Learn more →</a>
+                </div>
+                <div class="service-card">
+                    <i class="fas fa-briefcase"></i>
+                    <h3>Business Plans</h3>
+                    <p>Professional business plans for funding, partnerships, and growth. Tailored to your industry.</p>
+                    <a href="business-plans.html">Learn more →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why MLG -->
+    <section class="why-mlg">
+        <div class="container">
+            <h2>Why Choose MLG?</h2>
+            <div class="features-grid">
+                <div class="feature">
+                    <i class="fas fa-chalkboard-user"></i>
+                    <h4>Free Digital Audit</h4>
+                    <p>We review your current website and social presence at no cost.</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-gift"></i>
+                    <h4>First Lead Free</h4>
+                    <p>See proof before you pay. No risk.</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-handshake"></i>
+                    <h4>Month-to-Month</h4>
+                    <p>No long-term contracts. You stay because we deliver.</p>
+                </div>
+                <div class="feature">
+                    <i class="fas fa-map-marker-alt"></i>
+                    <h4>Based in Gauteng</h4>
+                    <p>We understand your local market and customers.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="cta-section">
+        <div class="container">
+            <h2>Ready to Grow Your Business?</h2>
+            <p>Book your free digital audit today. No obligation.</p>
+            <a href="contact.html" class="btn btn-large">Contact Us</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-col">
+                    <img src="logo.png" alt="MLG Logo" class="footer-logo">
+                    <p>Digital growth for Gauteng businesses. Website design, lead generation, and business plans.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="web-design.html">Website Design</a></li>
+                        <li><a href="marketing.html">Marketing & Lead Gen</a></li>
+                        <li><a href="business-plans.html">Business Plans</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact</h4>
+                    <p><i class="fas fa-phone"></i> <a href="tel:0696695448">069 669 5448</a></p>
+                    <p><i class="fas fa-envelope"></i> info@mzansileadgen.co.za</p>
+                    <p><i class="fab fa-facebook"></i> <a href="https://www.facebook.com/profile.php?id=61572130719736" target="_blank" rel="noopener">Facebook</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 MLG (Mzansi Lead Generation). All rights reserved.</p>
+                <p><a href="#" id="popia-link">POPIA Compliance</a> | <a href="#">Privacy Policy</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating WhatsApp Button -->
+    <a href="https://wa.me/27696695448?text=Hi%20MLG%2C%20I'm%20interested%20in%20your%20services" class="whatsapp-float" target="_blank" rel="noopener">
+        <i class="fab fa-whatsapp"></i>
+        <span>Chat with us</span>
+    </a>
+
+    <!-- POPIA Modal -->
+    <div id="popia-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2>POPIA Compliance</h2>
+            <p>MLG (Mzansi Lead Generation) is committed to protecting your personal information in accordance with the Protection of Personal Information Act (POPIA).</p>
+            <p><strong>What we collect:</strong> Name, email address, phone number, and business information you provide via our contact form.</p>
+            <p><strong>How we use it:</strong> To respond to your inquiries, provide our services, and send relevant business information.</p>
+            <p><strong>Your rights:</strong> You may request access, correction, or deletion of your data by emailing info@mzansileadgen.co.za.</p>
+            <p><strong>Third parties:</strong> We do not sell or share your data. Our contact form submissions are sent to our secure email accounts.</p>
+            <button id="close-popia" class="btn">I Understand</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
